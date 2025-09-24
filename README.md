@@ -29,7 +29,6 @@ Melhorar minhas habilidades em programação e Criar um projeto pessoal e coloca
 ## 📬 Maneiras de entrar em contato
 
 - **Email Pessoal:** [miguelmunhoz887@gmail.com](mailto:miguelmunhoz887@gmail.com)  
-- **Email Educacional:** [m.munhoz@aluno.senai.br](mailto:m.munhoz@aluno.senai.br)
 
 
 
